@@ -1,7 +1,7 @@
 {
   "name": "candy-crush-clone",
   "version": "0.1.0",
-  "homepage": "https://myusername.github.io/my-app",
+  "homepage": "https://Krushn219.github.io/Candy-crush",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.5",
